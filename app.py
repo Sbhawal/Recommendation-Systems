@@ -8,8 +8,8 @@ import scipy
 import requests
 
 
-RAPIDAPI_KEY  = "f0b674f502msh2fd7bf7d01e3e9bp127b2ajsn16ff895b22f0"
-RAPIDAPI_HOST =  "imdb8.p.rapidapi.com"
+RAPIDAPI_KEY  = ""
+RAPIDAPI_HOST =  ""
 
 url = "https://imdb8.p.rapidapi.com/title/get-overview-details"
 
